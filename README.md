@@ -1983,3 +1983,9 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+
+---
+
+**Built by [Zulqurnain Haider](https://zulqurnainj.com/) — Senior Full Stack Engineer**
+
+For full portfolio visit: https://zulqurnainj.com/
